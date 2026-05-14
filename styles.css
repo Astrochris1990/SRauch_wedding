@@ -125,8 +125,6 @@ h3 {
   margin-top: 1rem;
 }
 
-/* Navigation */
-
 .nav {
   position: fixed;
   top: 0;
@@ -190,8 +188,6 @@ h3 {
   opacity: 1;
   color: var(--plum);
 }
-
-/* Hero */
 
 .hero {
   min-height: 100vh;
@@ -270,8 +266,6 @@ h3 {
   height: 250px;
 }
 
-/* Intro */
-
 .intro {
   background: var(--white);
 }
@@ -310,8 +304,6 @@ h3 {
   font-size: 2.2rem;
   color: var(--plum);
 }
-
-/* Services */
 
 .services {
   background: linear-gradient(180deg, var(--rose-light), var(--cream));
@@ -356,8 +348,6 @@ h3 {
   color: var(--muted);
 }
 
-/* Story blocks */
-
 .story-block {
   background: var(--white);
 }
@@ -397,8 +387,6 @@ h3 {
   object-fit: cover;
 }
 
-/* Gallery */
-
 .gallery {
   background: var(--cream);
 }
@@ -433,8 +421,6 @@ h3 {
 .gallery-item:hover img {
   transform: scale(1.04);
 }
-
-/* Packages */
 
 .packages {
   background: var(--plum);
@@ -473,8 +459,6 @@ h3 {
 .package-card p {
   color: rgba(255, 243, 239, 0.8);
 }
-
-/* Contact */
 
 .contact {
   background:
@@ -559,8 +543,6 @@ h3 {
   color: var(--muted);
 }
 
-/* Footer */
-
 .footer {
   padding: 2rem 6vw;
   display: flex;
@@ -575,8 +557,6 @@ h3 {
 .footer a {
   color: var(--rose);
 }
-
-/* Responsive */
 
 @media (max-width: 1080px) {
   .hero,
